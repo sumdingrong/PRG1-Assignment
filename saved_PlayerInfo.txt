@@ -1,0 +1,2 @@
+{'x': 0, 'y': 0, 'copper': 5, 'silver': 0, 'gold': 0, 'GP': 3, 'day': 1, 'steps': 4, 'turns': 20, 'Name': 'nigger'}
+{'x': 2, 'y': 2}
